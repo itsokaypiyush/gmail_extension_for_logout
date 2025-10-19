@@ -1,6 +1,6 @@
 🚨 Auto-Logout for Gmail Based on User Inactivity 🔒
 
-As part of my cybersecurity project SafeLabs, I developed a system that automatically logs out the user from Gmail if there's no keyboard or mouse activity for over 2 minutes — helping prevent unauthorized access in sensitive environments like shared labs or public machines.
+As part of my cybersecurity project SafeLabs, I developed a system that automatically logs out the user from Gmail if there's no keyboard or mouse activity for over 2 minutes helping prevent unauthorized access in sensitive environments like shared labs or public machines.
 
 🔧 Tech Stack:
 
